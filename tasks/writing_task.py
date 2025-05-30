@@ -7,10 +7,10 @@ def create_writing_task(agent, research_data):
         {research_data}
         
         Requirements:
-        - Expand each key point into 2-3 paragraphs
+        - Expand each key point into 4-5 paragraphs
         - Include technical examples when marked as [EXAMPLE]
         - Add smooth transitions between sections
         - Maintain terminological consistency""",
         agent=agent,
-        expected_output="Complete technical article in markdown with 3500-4000 words"
+        expected_output="Complete technical article in markdown with 10000-11000 words"
     )
