@@ -1,0 +1,3 @@
+crewai
+ollama
+python-dotenv
